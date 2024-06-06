@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import { Analytics } from '@vercel/analytics/react';
 import React, { Suspense  } from 'react'
 import { Instrument_Sans } from 'next/font/google'
 import '@/styles/styles.scss'
@@ -9,7 +10,7 @@ const instrument = Instrument_Sans({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Healthsquare',
-  description: 'Healthsquare news hub',
+  description: 'Healthsquare Africa news hub',
 }
 
 export default function RootLayout({
@@ -23,6 +24,7 @@ export default function RootLayout({
         <Suspense>
         <body className={instrument.className}>
           {children}
+          <Analytics />
           <ModalSearch />
         </body>
         </Suspense>
