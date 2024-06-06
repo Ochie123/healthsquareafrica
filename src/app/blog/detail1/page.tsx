@@ -68,7 +68,7 @@ const BlogDetailOne = () => {
                             </div>
                             <div className="content md:mt-8 mt-5">
                                 <div className="body1">{blogMain.description}</div>
-                                <div className="body1 mt-3">I’ve always been passionate about underwear and shapewear and have a huge collection from over the years! When it came to shapewear, I could never find exactly what I was looking for and I would cut up pieces and sew them together to create the style and compression I needed.</div>
+                                <div className="body1 mt-3">{blogMain.description}</div>
                                 <div className="grid sm:grid-cols-2 gap-[30px] md:mt-8 mt-5">
                                     {blogMain.subImg.map((item, index) => (
                                         <Image
