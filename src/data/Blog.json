@@ -1,0 +1,128 @@
+[
+    {
+        "id": "1",
+        "category": "health",
+        "tag": "cancer, prevention",
+        "title": "Understanding Breast Cancer: Symptoms, Causes, and Treatments",
+        "date": "Jan 15, 2024",
+        "author": "Dr. Sarah Johnson",
+        "avatar": "/images/avatar/1.png",
+        "thumbImg": "/images/health/breast_cancer.png",
+        "coverImg": "/images/health/breast_cancer_cover.png",
+        "subImg": [
+            "/images/health/breast_cancer_1.png",
+            "/images/health/breast_cancer_2.png"
+        ],
+        "shortDesc": "Learn about the symptoms, causes, and various treatments available for breast cancer to stay informed and proactive.",
+        "description": "Breast cancer is a disease in which malignant (cancer) cells form in the tissues of the breast. Early detection can significantly improve the prognosis and treatment options. This article covers the signs and symptoms to look out for, potential risk factors, and the latest treatments available.",
+        "slug": "breast-cancer-awareness"
+    },
+    {
+        "id": "2",
+        "category": "health",
+        "tag": "diabetes, management",
+        "title": "Managing Type 2 Diabetes: Lifestyle Changes and Medications",
+        "date": "Feb 10, 2024",
+        "author": "Dr. James Smith",
+        "avatar": "/images/avatar/1.png",
+        "thumbImg": "/images/health/diabetes.png",
+        "coverImg": "/images/health/diabetes_cover.png",
+        "subImg": [
+            "/images/health/diabetes.png",
+            "/images/health/diabetes_cover.png"
+        ],
+        "shortDesc": "Explore effective strategies for managing Type 2 Diabetes through diet, exercise, and medication.",
+        "description": "Type 2 Diabetes is a chronic condition that affects millions worldwide. Effective management involves a combination of healthy eating, regular physical activity, and medication. This article provides detailed information on how to control blood sugar levels and improve overall health.",
+        "slug": "managing-type-2-diabetes"
+    },
+    {
+        "id": "3",
+        "category": "health",
+        "tag": "mental health, well-being",
+        "title": "The Importance of Mental Health: Recognizing and Addressing Anxiety",
+        "date": "Mar 5, 2024",
+        "author": "Dr. Emily Davis",
+        "avatar": "/images/avatar/1.png",
+        "thumbImg": "/images/health/mental_health.png",
+        "coverImg": "/images/health/mental_health.png",
+        "subImg": [
+            "/images/health/mental_health.png",
+            "/images/health/mental_health.png"
+        ],
+        "shortDesc": "Understanding anxiety and the steps you can take to manage it for better mental health.",
+        "description": "Anxiety disorders are among the most common mental health conditions. Recognizing the symptoms and seeking appropriate treatment can help manage anxiety effectively. This article discusses the signs of anxiety, treatment options, and strategies for maintaining mental well-being.",
+        "slug": "addressing-anxiety"
+    },
+    {
+        "id": "4",
+        "category": "health",
+        "tag": "cardiology, heart health",
+        "title": "Heart Health: Preventing and Managing Cardiovascular Disease",
+        "date": "Apr 10, 2024",
+        "author": "Dr. Michael Brown",
+        "avatar": "/images/avatar/1.png",
+        "thumbImg": "/images/health/heart_health.png",
+        "coverImg": "/images/health/heart_health.png",
+        "subImg": [
+            "/images/health/heart_health.png",
+            "/images/health/heart_health.png"
+        ],
+        "shortDesc": "Learn about cardiovascular disease prevention and management to maintain a healthy heart.",
+        "description": "Cardiovascular disease remains one of the leading causes of death globally. Understanding the risk factors and taking preventive measures can greatly reduce your chances of developing heart disease. This article covers heart-healthy lifestyle changes, treatments, and preventive strategies.",
+        "slug": "heart-health"
+    },
+    {
+        "id": "5",
+        "category": "health",
+        "tag": "nutrition, diet",
+        "title": "Healthy Eating: Nutritional Tips for a Balanced Diet",
+        "date": "May 20, 2024",
+        "author": "Dr. Linda Green",
+        "avatar": "/images/avatar/1.png",
+        "thumbImg": "/images/health/nutrition.png",
+        "coverImg": "/images/health/nutrition.png",
+        "subImg": [
+            "/images/health/nutrition.png",
+            "/images/health/nutrition.png"
+        ],
+        "shortDesc": "Discover essential nutrition tips to maintain a balanced and healthy diet.",
+        "description": "A balanced diet is crucial for maintaining overall health and well-being. This article provides tips on how to incorporate various nutrients into your daily meals, the importance of portion control, and how to make healthier food choices.",
+        "slug": "healthy-eating"
+    },
+    {
+        "id": "6",
+        "category": "health",
+        "tag": "exercise, fitness",
+        "title": "Fitness for Life: Creating an Effective Exercise Routine",
+        "date": "Jun 15, 2024",
+        "author": "Dr. Robert Wilson",
+        "avatar": "/images/avatar/1.png",
+        "thumbImg": "/images/health/fitness.png",
+        "coverImg": "/images/health/fitness.png",
+        "subImg": [
+            "/images/health/fitness.png",
+            "/images/health/fitness.png"
+        ],
+        "shortDesc": "Tips for creating and sticking to an effective exercise routine to stay fit and healthy.",
+        "description": "Regular exercise is essential for maintaining physical health and preventing various diseases. This article provides practical advice on how to create an effective exercise routine, tips for staying motivated, and the benefits of different types of physical activities.",
+        "slug": "fitness-for-life"
+    },
+    {
+        "id": "7",
+        "category": "health",
+        "tag": "allergies, asthma",
+        "title": "Living with Allergies: Tips and Treatments for Asthma and Allergies",
+        "date": "Jul 10, 2024",
+        "author": "Dr. Nancy Lee",
+        "avatar": "/images/avatar/1.png",
+        "thumbImg": "/images/health/allergies.png",
+        "coverImg": "/images/health/allergies.png",
+        "subImg": [
+            "/images/health/allergies.png",
+            "/images/health/allergies.png"
+        ],
+        "shortDesc": "Learn how to manage asthma and allergies with effective tips and treatments.",
+        "description": "Asthma and allergies can significantly impact daily life. Understanding the triggers and finding effective treatments can help manage symptoms and improve quality of life. This article offers advice on managing asthma and allergies, including lifestyle changes and medical treatments.",
+        "slug": "managing-allergies"
+    }
+]
