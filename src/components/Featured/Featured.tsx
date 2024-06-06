@@ -1,9 +1,9 @@
-
+"use client"
 import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid";
 import Typography from "@mui/material/Typography";
-// Material Kit 2 React components
-//mport Box from "@/components/Box";
+import {useMediaQuery} from '@mui/material';
+import { useTheme } from '@mui/material/styles';
 //image caption -African woman biochemist using microscope in modern equipped laboratory_ black scientist doctor working with various bacteria, tissue, blood samples, pharmaceutical research for antibiotics.jpg 
 // Material Kit 2 React examples
 import DefaultInfoCard from "@/components/Cards/InfoCards/DefaultInfoCard";
@@ -11,10 +11,14 @@ import CenteredBlogCard from "@/components/Cards/BlogCards/CenteredBlogCard";
 //import insightsImage from "../../../public/images/avatar/antibiotics.jpg"
 
 function Featured() {
+  const theme = useTheme();
+  const isSmallScreen = useMediaQuery(theme.breakpoints.down('sm')); // Check if screen size is small
+
+
   const image = "/images/avatar/antibiotics.jpg"
   return (
     <>
-      <Typography variant="h2" color="black">
+      <Typography variant={isSmallScreen ? "h4" : "h2"} color='black'>
         Science and integrity matter to us
       </Typography>
       <br />
